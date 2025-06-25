@@ -41,6 +41,5 @@ The "Features" section highlights the core skills I currently bring to my work:
 ├── index.html          # Main HTML page
 ├── styles/             # Tailwind CSS and custom styles
 ├── scripts/            # JavaScript for interactivity and logic
-├── assets/             # Icons, images, fonts
-├── sections/           # Reusable HTML sections like Features, Projects, Contact
+├── assets/             # Icons, images, fonts          # Reusable HTML sections like Features, Projects, Contact
 └── README.md           # You're here!
