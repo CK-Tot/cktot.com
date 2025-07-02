@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add blinking cursor to the last line
         if (index === lines.length - 1) {
           const cursor = document.createElement('span');
-          cursor.className = 'cursor inline-block w-[1ch] bg-current ml-1';
+          cursor.className = 'cursor animate-blink inline-block w-[1ch] bg-current ml-1';
           lineEl.appendChild(cursor);
         }
 
